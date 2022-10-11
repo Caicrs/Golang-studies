@@ -1,5 +1,5 @@
 ## Week 1
-- Topics that i learn :
+**Topics that i learned :**
 - [ ]  Basic Syntax
 - [ ]  Variables and declaration
 - [ ]  Data types
