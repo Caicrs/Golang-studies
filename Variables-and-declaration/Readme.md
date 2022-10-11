@@ -1,3 +1,3 @@
 ## Variables and Declaration
 - Run the code with : 
-go run .
+go run main.go
