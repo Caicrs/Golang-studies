@@ -1,4 +1,4 @@
-module week1/basic-syntax
+module basicSyntax
 
 go 1.18
 

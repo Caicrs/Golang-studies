@@ -1,5 +1,5 @@
-package main
+package syntax
 import "fmt"
-func Syntax3(){
+func Syntax4(){
 	fmt.Println("Learning the syntax with practice")
 }
