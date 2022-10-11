@@ -1,9 +1,8 @@
-## Day 1
-- Topics that i learn :
-- Basic Syntax
-- Variables and declaration
-- Data types
-- For Loop
-- Range
+## Golang Studies
+
+**PT-BR** | Verifique os ramos da semana para ver meus estudos de golang com detalhes.
+
+**ENG** | Check the week's branch's for see my golang studies with details.
+
 
 
