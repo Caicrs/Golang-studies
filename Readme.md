@@ -4,6 +4,6 @@
 - [X]  Variables and declaration
 - [X]  Data types
 - [X]  For Loop
-- [ ]  Range
+- [X]  Range
 
 
