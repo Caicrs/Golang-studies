@@ -1,10 +1,10 @@
 ## Week 1
 **Topics that i learned :**
-- [X]  Basic Syntax
-- [X]  Variables and declaration
-- [X]  Data types
-- [X]  For Loop
-- [X]  Range
-- [X]  Conditionals ( if / else if / else / ternary / switch)
+- ✅  Basic Syntax
+- ✅  Variables and declaration
+- ✅  Data types
+- ✅  For Loop
+- ✅  Range
+- ✅  Conditionals ( if / else if / else / ternary / switch)
 
 
