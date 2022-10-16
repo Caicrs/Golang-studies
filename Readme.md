@@ -6,5 +6,5 @@
 - [X]  For Loop
 - [X]  Range
 - [X]  Conditionals ( if / else if / else / ternary / switch)
-
+- [X]  Errors / Panic / Recover
 
