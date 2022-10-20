@@ -1,19 +1,20 @@
 package main
+
 import "fmt"
 
-func calc(a int, b int) int {
-
-	return a + b
+func calc(a int, b int) {
+	total := 0
+	total = a + b
+	fmt.Println(total)
 }
 
-func calc2(a, b, c int) int {
-	return a * b + c
+func calc2(a int, b int,c string) {
+	total := 0
+	total = a * b
+	fmt.Println(total,c)
 }
 
 func main() {
-
-	res := calc(1, 2)
-	fmt.Println(res)
-	res = calc2(1, 2, 3)
-	fmt.Println(res)
+	calc(10, 20)
+	calc2(10, 20,"Cars")
 }
