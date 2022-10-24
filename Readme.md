@@ -1,10 +1,10 @@
-## Week 2
+## Week 3
 **Topics that i learned :**
-- [X]  Functions
-- [X]  Type Casting
-- [X]  Type Inference
-- [X]  Arrays
-- [X]  Slices
-- [X]  Maps
-- [X]  Make()
-- [X]  Structs
+- []  Types and type assertions
+- []  Interfaces
+- []  Context
+- []  Goroutines
+- []  Channels
+- []  Buffer
+- []  Select
+- []  Mutex
